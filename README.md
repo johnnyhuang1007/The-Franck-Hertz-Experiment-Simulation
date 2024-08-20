@@ -58,9 +58,9 @@ Selection Rule
 The states of an atom can be expressed using Term symbol, which has the form 
 $` ^{2S+1}L_J `$. Transition can occur if it satisfies the selection rule:
 $$
-\mathrm{CE}(p, y) = \begin{cases}
-    -\log(p) & \text{if } y = 1 \\ % & is your "\tab"-like command (it's a tab alignment character)
-    -\log(1-p) & \text{otherwise.}
+\begin{cases}
+    \Delta L = 0 \text{ or } \pm 1 \\
+    \Delta J = 0 \text{ or } \pm 1 \quad (0 \nrightarrow 0)
 \end{cases}
 $$
 
