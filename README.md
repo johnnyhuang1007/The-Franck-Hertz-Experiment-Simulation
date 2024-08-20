@@ -7,7 +7,7 @@ The Franck-Hertz experiment demonstrates that atoms possess discrete energy stat
 
 
 
-<div text-align= center><img src="./img/tube.png" alt="Diagram of the experimental setup" width="400"/>
+<p align="center"><img src="./img/tube.png" alt="Diagram of the experimental setup" width="400"/><p>
 
 
 ---
@@ -50,7 +50,7 @@ $$f_L(l) = \lambda \exp(-\lambda l)$$
 The approximation of vapor pressure of Mercury between 300k to 500k and the formula of free mean path can be described as:
 $$\lambda = \frac{k_B T}{\sqrt{2} \sigma P}, \quad P \approx 8.7 \cdot 10^{(9 - \frac{3110}{T})} \, \text{Pa}$$
 
-<div text-align= center><img src="./img/electron_motion.png" alt="Electron Trajectory under the field line" width="400"/>
+<p align="center"><img src="./img/electron_motion.png" alt="Electron Trajectory under the field line" width="400"/><p>
 
 ---
 Selection Rule
@@ -64,6 +64,7 @@ $` ^{2S+1}L_J `$. Transition can occur if it satisfies the selection rule :
 Result
 ---
 
-<div text-align= center><img src="./img/hg.png" alt="Electron Trajectory under the field line" width="400"/>
-<div text-align= center><img src="./img/ne.png" alt="Electron Trajectory under the field line" width="400"/>
-<div text-align= center><img src="./img/comparison.png" alt="Electron Trajectory under the field line" width="400"/>
+<p align="center"><img src="./img/hg.png" alt="Electron Trajectory under the field line" width="400"/>
+<p>
+<p align="center"><img src="./img/ne.png" alt="Electron Trajectory under the field line" width="400"/><p>
+<p align="center"><img src="./img/comparison.png" alt="Electron Trajectory under the field line" width="400"/><p>
