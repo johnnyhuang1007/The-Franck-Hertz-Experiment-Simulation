@@ -59,8 +59,8 @@ The states of an atom can be expressed using Term symbol, which has the form
 $` ^{2S+1}L_J `$. Transition can occur if it satisfies the selection rule:
 $$
 \begin{cases}
-    \Delta L = 0 \text{ or } \pm 1 \\
-    \Delta J = 0 \text{ or } \pm 1 \quad (0 \nrightarrow 0)
+-\Delta L = 0 \text{ or } \pm 1 \\
+-\Delta J = 0 \text{ or } \pm 1 \quad (0 \nrightarrow 0)
 \end{cases}
 $$
 
