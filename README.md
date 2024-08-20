@@ -7,7 +7,9 @@ The Franck-Hertz experiment demonstrates that atoms possess discrete energy stat
 
 
 
-<img src="./img/tube.png" alt="Diagram of the experimental setup" width="500"/>
+<div style="text-align: center;">
+  <img src="./img/tube.png" alt="Diagram of the experimental setup" width="400"/>
+</div>
 
 ---
 Usage
@@ -55,7 +57,9 @@ $$
 \lambda = \frac{k_B T}{\sqrt{2} \sigma P}, \quad P \approx 8.7 \cdot 10^{(9 - \frac{3110}{T})} \, \text{Pa}
 $$
 
-<img src="./img/electron_motion.png" alt="Electron Trajectory under the field line" width="500"/>
+<div style="text-align: center;">
+<img src="./img/electron_motion.png" alt="Electron Trajectory under the field line" width="400"/>
+</div>
 
 ---
 Selection Rule
@@ -72,6 +76,9 @@ $$
 ---
 Result
 ---
-<img src="./img/hg.png" alt="Electron Trajectory under the field line" width="500"/>
-<img src="./img/ne.png" alt="Electron Trajectory under the field line" width="500"/>
-<img src="./img/comparison.png" alt="Electron Trajectory under the field line" width="500"/>
+
+<div style="text-align: center;">
+<img src="./img/hg.png" alt="Electron Trajectory under the field line" width="400"/>
+<img src="./img/ne.png" alt="Electron Trajectory under the field line" width="400"/>
+<img src="./img/comparison.png" alt="Electron Trajectory under the field line" width="400"/>
+</div>
